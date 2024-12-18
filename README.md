@@ -19,3 +19,5 @@
 ## インストール方法
 1. Xcodeを使ってプロジェクトをクローンします。
 2. アプリをビルドして、iOSデバイスまたはシミュレータで実行します。
+
+<img width="356" alt="Screenshot 2024-12-19 at 12 17 29 AM" src="https://github.com/user-attachments/assets/6b73361e-8c95-4085-856d-08d31ba899fb" />
